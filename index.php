@@ -10,7 +10,7 @@
 	<div class="container">
 		<div class="calculator">
 			<form>
-				<h2 style="text-align: center; color: lightblue;">KEALI</h2>
+				<h2 style="text-align: center; color: blue;">KEALI</h2>
 				<div class="display">
 					<input type="text" name="display">
 				</div>
