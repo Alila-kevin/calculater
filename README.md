@@ -7,3 +7,5 @@ Use parentheses to group operations.
 Calculate percentages.
 Convert between different units of measurement.
 Solve equations.
+with great ui.
+it very easy to istall becouse it run in the browser.
